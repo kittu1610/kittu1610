@@ -1,17 +1,12 @@
-- 👋 Hi, I’m Krishnamurthi
-- 👀 I’m interested in programming...
-- 💞️ I’m looking to collaborate on Web or Flutter Projects.
-- 📫 https://www.linkedin.com/in/krishna-bhagawath-01571a186/ 
-
 <!---
 kittu1610/kittu1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<meta property="og:description" content="Sarvesh SP is a Front-End Developer from Udupi, India. Sarvesh is currenty pursuing his BE in Computer Science. Feel free to contact Sarvesh" />
-<meta name="Keywords" content="sarvesh sp sarveshsp Sarvesh Sarveshsp SARVESHSP SARVESH sarveshsp spsarvesh sarveshsp.com www.sarveshsp.com"/>
+<meta property="og:description" content="Krishnamurthi is a Flutter and Front-End Developer from Udupi, India. Krishnamurthi is currenty pursuing his BE in Computer Science. Feel free to contact Krishnamurthi" />
+<meta name="Keywords" content="Krishnamurthi KrishnamurthiRB krishnamurthirb krishnamurthi KRISHNAMURTHI"/>
 
-### Hi there,Sarvesh here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, Krishnamurthi here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <!--
@@ -37,7 +32,7 @@ Here are some ideas to get you started:
 {
   "bio": "smvitm cs '22 // co-pres @fossasia",
   "location": "Udupi, Karnataka",
-  "name": "Sarvesh SP"
+  "name": "Krishnamurthi Bhagawath"
  }
 ```
 <!--
@@ -54,9 +49,9 @@ Here are some ideas to get you started:
 
   Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![Sarvesh-SP :: Profile Stats](https://github-readme-stats.vercel.app/api?username=Sarvesh-SP&show_icons=true&hide_border=true&theme=react&count_private=true) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh-SP&layout=compact&theme=react&hide_border=true)
+![kittu1610 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=kittu1610&show_icons=true&hide_border=true&theme=react&count_private=true) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittu1610&layout=compact&theme=react&hide_border=true)
 
-![sarveshSP's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Sarvesh-SP)
+![Krishnamurthi's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kittu1610)
   
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -86,12 +81,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/kittu1610">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sarvesh-SP?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kittu1610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <br>
  <p align="center">
   <b>GitHub Visitors</b>
   <br>
   <br>
-  <img alt="Page counter" src="https://profile-counter.glitch.me/Sarvesh-SP/count.svg">
+  <img alt="Page counter" src="https://profile-counter.glitch.me/kittu1610/count.svg">
 </p>
