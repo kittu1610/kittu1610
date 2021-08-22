@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=kittu1610&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 </details>
