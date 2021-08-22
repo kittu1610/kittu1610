@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
   Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![kittu1610 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=kittu1610&show_icons=true&hide_border=true&theme=react&count_private=true) | ![Sarvesh-SP :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittu1610&layout=compact&theme=react&hide_border=true)
+![kittu1610 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=kittu1610&show_icons=true&hide_border=true&theme=react&count_private=true) | ![kittu1610 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittu1610&layout=compact&theme=react&hide_border=true)
 
 ![Krishnamurthi's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kittu1610)
   
@@ -63,20 +63,20 @@ Here are some ideas to get you started:
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh-SP&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kittu1610&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!--
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sarveshSP's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sarvesh-SP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kittu1610's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kittu1610&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 -->
 
 <details>
 <summary>Detailed Summary</summary>
 <br>
   
-![Metrics](https://metrics.lecoq.io/Sarvesh-SP?template=classic&languages=1&lines=1&activity=1&achievements=1&people=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=50&config.timezone=Asia%2FKolkata&config.twemoji=true)    
+![Metrics](https://metrics.lecoq.io/kittu1610?template=classic&languages=1&lines=1&activity=1&achievements=1&people=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=50&config.timezone=Asia%2FKolkata&config.twemoji=true)    
 </details>
 
 <p align="center">
