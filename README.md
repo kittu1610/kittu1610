@@ -12,16 +12,11 @@
 
 ```json
 {
-  "bio": "smvitm cs '22 // co-pres @fossasia",
+  "bio": "smvitm cs",
   "location": "Udupi, Karnataka",
   "name": "Krishnamurthi Bhagawath"
  }
 ```
-<!--
-<td> <img alt="GIF" src="code.gif?raw=true" width="400" height="256" />  </td>
-<table><tr>
-<td> <img alt="GIF" src="anime.png?raw=true" width="400" height="256" />  </td> 
-</tr></table> -->
 
 ## 📊 Github stats
 
@@ -48,11 +43,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kittu1610&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
   </a>
  </p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!--
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kittu1610's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kittu1610&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
--->
 
 <p align="center">
   <a href="https://github.com/kittu1610">
