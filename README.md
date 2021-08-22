@@ -72,13 +72,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kittu1610's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kittu1610&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 -->
 
-<details>
-<summary>Detailed Summary</summary>
-<br>
-  
-![Metrics](https://metrics.lecoq.io/kittu1610?template=classic&languages=1&lines=1&activity=1&achievements=1&people=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=50&config.timezone=Asia%2FKolkata&config.twemoji=true)    
-</details>
-
 <p align="center">
   <a href="https://github.com/kittu1610">
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/kittu1610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
