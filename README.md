@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kittu1610&label=Profile%20views&color=0e75b6&style=flat" alt="kittu1610" /> </p>
 
-- 🔭 I’m currently working on [TCS](https://www.tcs.com/)
+- 🔭 I’m currently working in [TCS](https://www.tcs.com/)
 
 - 🌱 I’m currently learning **AWS, Azure, GCP and Angular**
 
